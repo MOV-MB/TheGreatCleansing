@@ -1,3 +1,3 @@
 # TheGreatCleansing
-Delete your Sins
+Delete your Sins.
 Deletes MBII folder (Steam only)
